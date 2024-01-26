@@ -70,7 +70,12 @@ const MyCarousel = () => (
     showStatus={false}
     showThumbs={false}
     showArrows={false}
+<<<<<<< HEAD
     stopOnHover={false}
+=======
+   stopOnHover={false}
+
+>>>>>>> 65f5d28567e6760ce3bec00c42d6a3ae4872674a
   >
     <Box w={"full"} h={"100vh"}>
       <Image src={img1} h={"full"} w={"full"} objectFit={"cover"} />
