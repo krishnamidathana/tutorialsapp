@@ -1,7 +1,14 @@
 {
   "files": {
     "main.css": "/tutorialsapp/static/css/main.a249c968.css",
-    "main.js": "/tutorialsapp/static/js/main.cb0b0ce9.js",
+    "main.js": "/tutorialsapp/static/js/main.59489969.js",
+    "static/media/v2.mp4": "/tutorialsapp/static/media/v2.66c57b8696d6cbe03bc5.mp4",
+    "static/media/v1.mp4": "/tutorialsapp/static/media/v1.0b55ec0ae863a2a44288.mp4",
+    "static/media/v4.mp4": "/tutorialsapp/static/media/v4.4e26c87d0342726fb520.mp4",
+    "static/media/v3.mp4": "/tutorialsapp/static/media/v3.02ad0e902c109d9bf4f5.mp4",
+    "static/media/v6.mp4": "/tutorialsapp/static/media/v6.5a540d00e2b09cbc4c97.mp4",
+    "static/media/v7.mp4": "/tutorialsapp/static/media/v7.eef5af0af2a9c06ccbf4.mp4",
+    "static/media/v5.mp4": "/tutorialsapp/static/media/v5.d9fcdb6dc0e07f5b3c86.mp4",
     "static/media/5.png": "/tutorialsapp/static/media/5.9388ec8c6cacbb4d238e.png",
     "static/media/3 (1).jpg": "/tutorialsapp/static/media/3 (1).04220ae5e2dc07aa7c4a.jpg",
     "static/media/1.jpg": "/tutorialsapp/static/media/1.78647b876cebccd8114a.jpg",
@@ -9,10 +16,10 @@
     "static/media/2.jpg": "/tutorialsapp/static/media/2.ff3c862f2c7188c34104.jpg",
     "index.html": "/tutorialsapp/index.html",
     "main.a249c968.css.map": "/tutorialsapp/static/css/main.a249c968.css.map",
-    "main.cb0b0ce9.js.map": "/tutorialsapp/static/js/main.cb0b0ce9.js.map"
+    "main.59489969.js.map": "/tutorialsapp/static/js/main.59489969.js.map"
   },
   "entrypoints": [
     "static/css/main.a249c968.css",
-    "static/js/main.cb0b0ce9.js"
+    "static/js/main.59489969.js"
   ]
 }
